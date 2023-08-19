@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(96, 69, 60);
+    background-color: rgb(215, 99, 61);
     margin: 0px;
 }
 
@@ -12,7 +12,7 @@ body {
 
 .firstbox {
     opacity: 0.9;
-    background-color: teal;
+    background-color: rgb(88, 58, 107);
     width: 100%;
     height: 20px;
     border: solid;
@@ -27,7 +27,7 @@ body {
 
 h1 {
     display: inline;
-    background-color: crimson;
+    background-color: rgb(219, 244, 35);
     font-size: 150%;
     margin-right: 0px;
     margin-left: 0px;
